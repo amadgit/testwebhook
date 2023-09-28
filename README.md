@@ -3,6 +3,4 @@
 
 new commit in patch1 branch
 
-new hange
-
 
